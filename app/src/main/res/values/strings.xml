@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HtmlResponse</string>
+    <string name="log_in">Log in</string>
+    <string name="log_title">Log in for your personalized search result,the best detail in the industry...</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password"><u>Forgot Password?</u></string>
+    <string name="btncontinue">Continue</string>
+    <string name="or_log_in_with">Or log in with</string>
+    <string name="are_you_new_to_bussinessclass_com">Are you new to bussinessclass.com</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="email_check">Email is must</string>
+    <string name="password_check">Password is must</string>
+    <string name="login_success">Login Successfully</string>
+</resources>
